@@ -1,7 +1,7 @@
 Task Generator
 ==============
 
-* Install Ruby!
+* Install Ruby
 * Run `ruby task-generator.rb`
 * Notify Management
 * Return To Work
@@ -16,7 +16,7 @@ How many useless tasks do you need?
 
 -----=====-----
 Conform Compatible Assets
-Conform Fragile Software
+Migrate Fragile Software
 Test Regressive Development
 Architect Object-oriented Component
 Conform Corrective Threshold
