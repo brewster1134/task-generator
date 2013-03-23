@@ -18,12 +18,12 @@ How many useless tasks do you need?
 Conform Compatible Assets
 Migrate Fragile Software
 Test Regressive Development
-Architect Object-oriented Component
-Conform Corrective Threshold
-Develop Testable Artifacts
-Survey Inconsistent Interface
+Architect Object-oriented Components
+Adapt Corrective Threshold
+Develop Testable Designs
+Survey Inconsistent Interfaces
 Measure Dynamic Artifacts
-Engineer Traceable Component
+Engineer Agile Benchmarks
 Transform Traceable Work
 -----=====-----
 
